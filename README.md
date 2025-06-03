@@ -25,18 +25,6 @@ A sleek and fully functional To-Do List application built with **HTML**, **CSS**
 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 
----
-
-## 📸 Screenshots
-
-> _You can add screenshots here by uploading image files in your repo and linking them below._
-
-```md
-![Screenshot 1](./screenshots/home.png)
-![Screenshot 2](./screenshots/adding-task.png)
-````
-
----
 
 ## 📂 How to Use
 
